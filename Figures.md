@@ -1,7 +1,7 @@
 # RNAconcentrationField
 figures from ChemRxiv DOI: 10.26434/chemrxiv-2024-xw2tg
-n/
-n\
+
+\
 _____Figure 2_____
 ![fig2](https://github.com/user-attachments/assets/ad9c1b93-d917-432b-8b7e-4ff136e988dc)
 
