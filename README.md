@@ -1,5 +1,6 @@
 # RNAconcentrationField
-This repository contains Python scripts for analyzing and comparing experimental and modeled RNA concentration data. The models and data sets referenced here are based on work from ChemRxiv.
+This repository contains Python scripts for analyzing and comparing experimental and modeled RNA concentration data. The models and data sets referenced here are based on work from ChemRxiv (DOI: 10.26434/chemrxiv-2024-xw2tg)
+.
 
 Table of Contents
 Overview
